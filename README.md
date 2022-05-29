@@ -6,6 +6,7 @@ Trabajos practicos mentoria sobre transporte publico de pasajeros Cordoba - Dipl
 - Kocian, Esteban (egkolo@gmail.com)
 - Villagra Torcomian, Ignacio (ignaciovillator@gmail.com)
 
+## [Entregable 1](/entregable_1.ipynb)
 ### Manipulacion y transformacion de dataset
 - Interaccion con bases particionadas
 - Conversion de formatos (fecha de string a Datetime)
@@ -15,4 +16,3 @@ Trabajos practicos mentoria sobre transporte publico de pasajeros Cordoba - Dipl
 - Calculo de variables espaciales: Corredor, línea y sentido,
 - Calculo de Variables temporales: Mes, día de la semana y hora. 
 - Analisis de estacionalidad
-    - [Entregable 1](/entregable_1.ipynb)
