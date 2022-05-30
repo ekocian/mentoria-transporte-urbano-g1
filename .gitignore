@@ -1,2 +1,4 @@
 processed-data/*.png
 processed-data/*.pdf
+dataset/*.zip
+.DS_Store
