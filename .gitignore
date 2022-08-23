@@ -2,3 +2,10 @@ processed-data/*.png
 processed-data/*.pdf
 dataset/*.zip
 .DS_Store
+processed-data/datescards.csv
+presentacion-intermedia.pptx
+entregable_work.ipynb
+processed-data/deltas.csv
+processed-data/carddeltas.csv
+processed-data/datescards.csv.zip
+processed-data/numtickets-day-month.csv
