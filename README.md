@@ -39,3 +39,13 @@ Trabajos practicos mentoria sobre transporte publico de pasajeros Cordoba - Dipl
 ### c) Predicción
 - Uso de Decision Tree Classifier y Random Forest
 - Análisis y Evaluación
+
+## [Entregable 4](/entregable_4.ipynb)
+### Exploración del dataset
+- Determinación de variables para clustering
+
+### Clustering con K-Means
+- Punto de inflexión
+- Ploteos de domingo/sabado/clustering
+
+
